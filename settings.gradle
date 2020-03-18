@@ -1,0 +1,3 @@
+rootProject.name='Multiple_Image_Selection_Sample'
+include ':app'
+include ':lib-multiple_image_selection'

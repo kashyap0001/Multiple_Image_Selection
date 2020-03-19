@@ -1,6 +1,27 @@
 # Multiple_Image_Selection
 
-## Screenshot
+### How to add dependency?
+This library is not released in Maven Central, but instead you can use [JitPack](https://jitpack.io)
+
+add remote maven url in `allprojects.repositories`
+
+```groovy
+allprojects {
+	repositories {
+		maven { url "https://jitpack.io" }
+	}
+}
+```
+
+then add a library dependency
+
+```groovy
+dependencies {
+	implementation 'com.github.QuadFlask:colorpicker:0.0.15'
+}
+```
+
+## Screenshot:-
 ### List of Folders
 ![List_of_Folders.jpg](https://github.com/kashyap0001/Multiple_Image_Selection/blob/master/List_of_folders.jpg)
 
@@ -9,3 +30,5 @@
 
 ### remove images from selection
 ![Selected_image.jpg](https://github.com/kashyap0001/Multiple_Image_Selection/blob/master/Selected_image.jpg)
+
+

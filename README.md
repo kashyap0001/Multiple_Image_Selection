@@ -1,3 +1,3 @@
 # Multiple_Image_Selection
 
-![screenshot3.png](https://github.com/QuadFlask/colorpicker/blob/master/screenshot/screenshot3.png)
+![Selected_image.png](https://github.com/kashyap0001/Multiple_Image_Selection/blob/master/Selected_image.jpg)

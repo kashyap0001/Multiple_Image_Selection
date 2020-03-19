@@ -17,7 +17,7 @@ then add a library dependency
 
 ```groovy
 dependencies {
-	implementation 'com.github.QuadFlask:colorpicker:0.0.15'
+	implementation 'com.github.kashyap0001:Multiple_Image_Selection:1.0.1'
 }
 ```
 

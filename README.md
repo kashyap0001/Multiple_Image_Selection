@@ -21,7 +21,7 @@ dependencies {
 }
 ```
 
-## Screenshot:-
+## Screenshots:-
 ### List of Folders
 ![List_of_Folders.jpg](https://github.com/kashyap0001/Multiple_Image_Selection/blob/master/List_of_folders.jpg)
 

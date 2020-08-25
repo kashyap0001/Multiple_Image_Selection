@@ -21,6 +21,10 @@ dependencies {
 }
 ```
 
+
+use this when you want to select multiple images :-
+
+
 ```
 
 startActivityForResult(Select_multiple.CreateSelection(context),request_code);
